@@ -121,7 +121,7 @@ a:hover, a:focus {
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: url(/web/20170929200122im_/http://wasbazi.com/img/intro-bg.jpg) no-repeat bottom center scroll;
+  background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;
   background-color: #000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -248,7 +248,7 @@ a:hover, a:focus {
 .textured-section {
   width: 100%;
   color: #444;
-  background: url(/web/20170929200122im_/http://wasbazi.com/img/textured_paper.png) repeat center center scroll;
+  background: url(../img/textured_paper.png) repeat center center scroll;
   background-color: #ccc;
 }
 
@@ -361,12 +361,3 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
-
-/*
-     FILE ARCHIVED ON 20:01:22 Sep 29, 2017 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 21:02:37 Feb 14, 2018.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
